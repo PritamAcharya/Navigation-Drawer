@@ -1,4 +1,4 @@
-package github.com.anurag145.birthdayapp;
+package com.example.my.pritam;
 
 import android.content.Intent;
 import android.os.Bundle;
